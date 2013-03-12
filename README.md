@@ -1,5 +1,9 @@
 # hapi-request
-Decorator for [Hapi](https://github.com/spumko/hapi) request object
+Decorator for [Hapi](https://github.com/spumko/hapi) request object.
+
+The idea is that handlers can be used as prerequsite methods as interchangeable, reusable pieces of code.
+
+* * *
 
 **Example**
 ```javascript
