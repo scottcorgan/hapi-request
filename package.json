@@ -1,0 +1,17 @@
+{
+  "name": "hapi-request",
+  "version": "0.1.0",
+  "description": "Hapi request object decorator for more betterness.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:scottcorgan/hapi-request.git"
+  },
+  "keywords": [
+    "hapi",
+    "api",
+    "request"
+  ],
+  "author": "Scott Corgan",
+  "license": "BSD"
+}
