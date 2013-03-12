@@ -6,6 +6,13 @@ The idea is that handlers can be used as prerequsite methods as interchangeable,
 * * *
 
 **Example**
+
+Install
+```
+npm install hapi-request
+```
+
+
 ```javascript
 
 var hapiRequest = require('hapi-requst');
