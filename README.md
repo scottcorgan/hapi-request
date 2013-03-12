@@ -5,13 +5,13 @@ The idea is that handlers can be used as prerequsite methods as interchangeable,
 
 * * *
 
-**Example**
-
 Install
+
 ```
 npm install hapi-request
 ```
 
+Usage
 
 ```javascript
 
