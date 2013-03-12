@@ -45,7 +45,7 @@ server.route({
     method: 'GET',
     path: '/some-OTHER-route',
     pre: {
-        foo: somehandler // <~~ Can be used as a Hapi prerequsite
+        foo: someHandler // <~~ Can be used as a Hapi prerequsite
     }
     handler: function (request) {
         var foo = request.pre.foo;
